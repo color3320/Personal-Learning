@@ -1,2 +1,1 @@
-# Personal-Learning
-Currently learning NLP 
+# Python Notebook I use to learn Data Preprocessing and VADER sentiment Analysis
